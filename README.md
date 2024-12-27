@@ -28,6 +28,6 @@
 
 ### 📞 Let's Connect:
  
-- [LinkedIn](https://linkedin.com/in/kirbydyson)   
+- [LinkedIn](https://linkedin.com/in/kirby-dyson)   
 
 ![Footer](https://img.shields.io/badge/I_Love_Compsci-%23FFC1CC?style=for-the-badge)
