@@ -27,11 +27,15 @@
 
 ### 📊 GitHub Stats:
 
-![Kirby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirbydyson&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
+![Kirby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirbydyson&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&icon_color=F9A7B0)
+
+---
 
 ### 🏆 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=radical&card_width=300&langs_count=8)
+
+---
 
 
 ### 📞 Let's Connect:
