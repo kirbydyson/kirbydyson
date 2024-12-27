@@ -25,6 +25,15 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+![Kirby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirbydyson&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
+
+### 🏆 Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=merko)
+
+
 ### 📞 Let's Connect:
  
 - [LinkedIn](https://linkedin.com/in/kirby-dyson)   
