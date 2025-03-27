@@ -27,7 +27,7 @@
 
 ### 🏆 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=radical&card_width=300&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=radical&exclude_repo=CS123,OldProject&hide=css)
 
 ---
 
