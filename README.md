@@ -1,6 +1,6 @@
 # Hello, World! I'm Kirby Dyson ✨
 
-> A passionate **Junior Computer Science Major** with a love for **coding, problem-solving, and cybersecurity!**
+> A passionate **Senior Computer Science Major** with a love for **coding, problem-solving, and cybersecurity!**
 
 ---
 
@@ -13,6 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-F08080?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-87CEFA?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FFA500?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-98FB98?style=for-the-badge&logoColor=black)
 
 ---
 
@@ -25,14 +27,18 @@
 
 ---
 
-### 🏆 Most Used Languages:
+### 📊 My GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=radical&card_width=300&langs_count=8&cache_seconds=3600)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirbydyson&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kirby Dyson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=radical&langs_count=8" alt="Kirby Dyson's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kirbydyson&theme=radical" alt="Kirby Dyson's GitHub Streak" />
+</p>
 
 ---
 
 ### 📞 Let's Connect:
  
-- [LinkedIn](https://linkedin.com/in/kirby-dyson)   
-
-![Footer](https://img.shields.io/badge/I_Love_Compsci-%23FFC1CC?style=for-the-badge)
+- [LinkedIn](https://linkedin.com/in/kirby-dyson)
