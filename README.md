@@ -30,7 +30,6 @@
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirbydyson&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Kirby Dyson's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirbydyson&layout=compact&theme=radical&langs_count=8" alt="Kirby Dyson's Top Languages" />
 </p>
 <p align="center">
